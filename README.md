@@ -1,5 +1,3 @@
-# 🚀 TheChadFlow100: Mastering 100 Backend Engineering Projects
-
 ## About this project
 This repository documents a comprehensive, self-driven backend engineering learning journey aimed at mastering system design, distributed computing, and advanced software architecture through 100 strategic projects using Rust and Golang.
 
