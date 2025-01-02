@@ -6,7 +6,7 @@ This repository documents a comprehensive, self-driven backend engineering learn
 
 
 ## Project Overview
-___
+---
 - **Duration:** 12 Months
 - **Primary Languages:** Rust, Golang
 - **Goal:** Build production-ready, scalable backend systems
@@ -14,17 +14,18 @@ ___
 
 
 ## Technology Ecosystem
-___
+---
 - **Core Languages:**
     - Rust (Systems Programming)
     - Golang (Concurrent Backend Development)
 - **Architectural Patterns:**
     - Microservices
     - Event-Driven Architecture
-    - Distributed Systems
-___
-## Project 
+    - Distributed systems
 
+
+## Project 
+---
 ### Phases:
     Phase 1: Foundations (1-20 Projects)
     Phase 2: Distributed Systems (21-40 Projects)
@@ -57,19 +58,20 @@ ___
 |20|Social Media API|Golang, MongoDB|Link|
 
 ### Phase 2 - 5 Soon 
+---
 
 
 
 
 
 ## Contact
-___
+---
 - Email: fadilsfloww@gmail.com
 - LinkedIn: fadilsflow
 - Instagram: @fadilsflow
 
 ## License
-___
+---
 Copyright (c) 2025 fadilsflow
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [Chad License](https://github.com/fadilsflow).
